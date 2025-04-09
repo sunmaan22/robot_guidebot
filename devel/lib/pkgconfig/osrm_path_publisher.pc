@@ -1,0 +1,8 @@
+prefix=/home/sunmaan/catkin_ws/devel
+
+Name: osrm_path_publisher
+Description: Description of osrm_path_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+gps_pkg:osrm_path_publisher
+-DCATKIN_DEVEL_PREFIX=/home/sunmaan/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sunmaan/catkin_ws/install -G Unix Makefiles
